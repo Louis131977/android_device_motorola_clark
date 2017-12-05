@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-$(LOCAL_DIR)/fh_clark-userdebug
+$(LOCAL_DIR)/aosp_clark-userdebug
