@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo fh_clark-userdebug
+add_lunch_combo pa_clark-userdebug
